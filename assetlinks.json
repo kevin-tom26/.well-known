@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.bookmyloft.app",
+      "package_name": "com.bookmyloft.com",
       "sha256_cert_fingerprints": [
         "22:6A:79:65:22:CD:68:3D:86:B6:C8:A4:95:D7:20:60:BE:BC:7B:C2:53:3E:25:70:7D:58:14:61:23:44:1F:46"
       ]
